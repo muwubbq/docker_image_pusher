@@ -1,3 +1,1 @@
-serjs/go-socks5-proxy
-dperson/socks
 z3apa3a/3proxy

@@ -1,1 +1,2 @@
-image: louislam/dockge:1
+louislam/dockge:1
+serjs/go-socks5-proxy:

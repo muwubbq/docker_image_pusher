@@ -1,1 +1,2 @@
 3proxy/3proxy
+mysql:5.7.44

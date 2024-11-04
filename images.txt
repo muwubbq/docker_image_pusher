@@ -1,2 +1,1 @@
-3proxy/3proxy
-mysql:5.7.44
+vaultwarden/server:1.32.3-alpine

@@ -1,1 +1,1 @@
-vaultwarden/server:1.32.3-alpine
+vaultwarden/server:1.32.7-alpine

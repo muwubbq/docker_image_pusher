@@ -1,7 +1,9 @@
-vaultwarden/server:1.34.3-alpine
+vaultwarden/server:latest
 mariadb:12.0.2
 docker.io/jc21/nginx-proxy-manager:latest
 jc21/mariadb-aria:latest
 plantuml/plantuml-server:latest
 jgraph/export-server:latest
 jgraph/drawio:latest
+cqshushu/iptv-spider:v1.0
+yiwanaishare/iptv-aggregator:latest
